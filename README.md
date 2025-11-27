@@ -13,7 +13,7 @@
 
 Fig: Simulation Circuit Diagram
 
-**`UPLOAD THE SIMULATINO CLIP BELOW:`**
+**`UPLOAD THE SIMULATION CLIP BELOW:`**
 
 
 
@@ -42,5 +42,7 @@ Fig: Simulation Circuit Diagram
   ```    
 ### 5.	Research and add a button to the above circuit and toggle the LED only if the button is pressed.
   ```
-
+   SUBMIT THE PROGRAM HERE:
+   
   ```
+**`UPLOAD THE SIMULATION CLIP BELOW:`**
