@@ -7,6 +7,7 @@
    - Select New Project and Choose ESP32 as dev board
    - In Beginner’s Template Select MicroPython
    - Create following Diagram and Code to create LED blink code
+   - Find the program from file `main.py`
 
 <img width="384" height="389" alt="image" src="https://github.com/user-attachments/assets/7fd93355-d1b9-4ca1-a026-5c5d5a3287d6" />
 
